@@ -1,6 +1,7 @@
 #!/bin/bash
 # Add your aliases here
-alias ll='ls -l'
+alias ll='ls -la --color=auto'
+alias c='clear'
 alias grep='grep --color=auto'
 # Define environment variables
 export greeting="Hello there!"
